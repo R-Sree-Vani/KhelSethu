@@ -63,7 +63,7 @@ HTML5 CSS3 Bootstrap JavaScript Express.js NodeJS MongoDB NPM
 
 🔗 <h2>Our Profiles</h2>
 Harinadh
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harinadh-tanna-45b392211/)](https://www.linkedin.com/in/harinadh-tanna-45b392211/)
 linkedin
 
 Prem Kumar
