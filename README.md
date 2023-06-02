@@ -62,24 +62,26 @@ Admin Panel (All CRUD Operations)<br>
 HTML5 CSS3 Bootstrap JavaScript Express.js NodeJS MongoDB NPM 
 
 🔗 <h2>Our Profiles</h2>
-Harinadh
+Harinadh Tanna<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harinadh-tanna-45b392211/)](https://www.linkedin.com/in/harinadh-tanna-45b392211/)
-linkedin
+<br>
 
-Prem Kumar
 
-linkedin
+Prem Kumar Naidu Tadi<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prem-kumar-naidu-tadi-b47179237/)](https://www.linkedin.com/in/prem-kumar-naidu-tadi-b47179237/)
+<br>
 
-Vani
 
-linkedin
+Sree Vani Ramisetti<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sree-vani-ramisetti-7b0579208/)](https://www.linkedin.com/in/sree-vani-ramisetti-7b0579208/)
 
-License
-MIT
 
-Contributing
+<h2>License</h2>
+<a href="https://choosealicense.com/licenses/mit/">MIT</a>
+
+<h2>Contributing</h2>
 Contributions are always welcome!
 
-See contributing.md for ways to get started.
+See `contributing.md` for ways to get started.
 
-Please adhere to this project's code of conduct.
+Please adhere to this project's `code of conduct`.
